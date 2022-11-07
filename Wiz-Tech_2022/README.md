@@ -1,8 +1,8 @@
 #  Wiz-Tech 2022
 ![image](https://user-images.githubusercontent.com/68729523/200016579-6486d398-c4b3-42c5-acef-63c86b95915b.png)
-## Ouestions
-## Solutions
-* 1st Answer :
+## Ouestion 1 
+![IMG_20221107_195257](https://user-images.githubusercontent.com/68729523/200333968-c7685649-8954-4d7b-92ea-744486db5ce6.jpg)
+## Answer 1
 ```python
 import string as st
 
@@ -63,7 +63,9 @@ else:
     print("Explanation : ",", ".join(result))
 
 ```
-* 2nd Answer
+## Question 2
+![IMG_20221107_195317](https://user-images.githubusercontent.com/68729523/200333994-0051e680-62a6-45f6-9797-ca295194715a.jpg)
+## Answer 2
 ```python
 def print_pattern() -> None:
     for i in range(1,5):
@@ -76,3 +78,5 @@ print_pattern()
 
 ```
 ## Results
+As expected,
+![IMG_20221107_195638](https://user-images.githubusercontent.com/68729523/200334478-a790f9ba-c1c4-4a8e-854e-d7d6409f400e.jpg)
