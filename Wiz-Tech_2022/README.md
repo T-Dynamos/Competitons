@@ -78,5 +78,8 @@ print_pattern()
 
 ```
 ## Results
-As expected,
+As expected, I loose (kind of). Reason: Bad code quality?
 ![IMG_20221107_195638](https://user-images.githubusercontent.com/68729523/200334478-a790f9ba-c1c4-4a8e-854e-d7d6409f400e.jpg)
+
+## Certificates
+![SAVE_20221115_230148](https://user-images.githubusercontent.com/68729523/201987832-80019933-2480-4964-9cd1-678c79afe96d.jpg)
