@@ -63,6 +63,8 @@ else:
     print("Explanation : ",", ".join(result))
 
 ```
+Code remake : https://github.com/T-Dynamos/Coding/blob/main/Python/password_checker.py
+
 ## Question 2
 ![IMG_20221107_195317](https://user-images.githubusercontent.com/68729523/200333994-0051e680-62a6-45f6-9797-ca295194715a.jpg)
 ## Answer 2
